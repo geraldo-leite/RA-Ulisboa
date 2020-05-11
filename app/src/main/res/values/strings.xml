@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ra-Ulisboa</string>
+    <string name="facebook_app_id">""your-app-id""</string>
+    <string name="fb_login_protocol_scheme">""your-app-id""</string>
+</resources>
